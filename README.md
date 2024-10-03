@@ -1,6 +1,5 @@
-# vrp-menu
 # vRP Menu for FiveM
-
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 This is a customizable **vRP menu** for FiveM, designed to enhance your server's roleplay experience. With this menu, players can easily access various features such as job selection, actions, and utilities, directly from the interface.
 
 ## Features
@@ -19,11 +18,3 @@ This is a customizable **vRP menu** for FiveM, designed to enhance your server's
 ## Requirements
 - vRP framework
 - FiveM server
-
-## Support
-
-Feel free to open an issue or submit a pull request if you encounter any problems or want to contribute to this project.
-
----
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="TDKcode" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
