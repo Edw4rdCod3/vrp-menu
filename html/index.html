@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" type="text/javascript"></script>
+      <script src="./script.js" type="text/javascript"></script>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+   </head>
+   <body class="hide"> 
+
+
+
+
+
+      <div class="minimap card">
+         <h1 >Map</h1>
+         
+         <img class="imagine" src="./map.png" width="250px">
+      </div>
+
+   <div class="container">
+
+      <div class="settings card">
+         <h1>Settings</h1>
+         <img class="imagine" src="./untitled.png" width="150px">
+      </div>
+
+      <div class="discord card">
+         <h1>Join Discord</h1>
+         <img class="imagine" src="./discord.png" width="100px">
+      </div>
+
+      <div class="quit card">
+         <h1>Quit</h1>
+         <img class="imagine" src="./quit.png" width="150px">
+      </div> 
+
+   </div>
+
+   <div class="container">
+
+      <div class="bug card">
+         <h1>Bug Report</h1>
+         <input type="text" id="bugInput" placeholder="Descrie problema...">
+         <button class="send-btn" onclick="sendBugReport()">Trimite</button>
+     </div>
+     
+
+      <div class="resume card">
+         <h1 >Resume</h1>  
+         <img class="imagine" src="./resume.png" width="150px">
+      </div>
+
+   </div>
+
+      <div id="alertContainer" class="alert-container">
+         <div id="alertBox" class="alert-box">
+             <span id="alertMessage" class="alert-message"></span>
+             <button class="alert-close" onclick="closeAlert()">Close</button>
+         </div>
+     </div>
+
+
+
+   </body>
+
+  
+</html>
